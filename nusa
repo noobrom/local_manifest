@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>      
+
+      <remote name="projects-nexus"
+          fetch="https://github.com/projects-nexus" />   
+      
+      <remote name="ahmedhridoy371"
+          fetch="https://github.com/ahmedhridoy371" />       
+     
+      <remote name="ArrowOS"
+          fetch="https://github.com/ArrowOS" />
+
+      <remote name="clang"
+          fetch="https://gitlab.com/Amritorock" />
+              
+  <project path="device/xiaomi/lavender" name="device_nusa" remote="noobrom" revision="xq" />  
+  <project path="vendor/xiaomi/lavender" name="vendor_nusa" remote="noobrom" revision="ten" />  
+  <project path="kernel/xiaomi/lavender" name="kernelxiaomilavender" remote="noobrom" revision="oldcam-hmp" />
+
+</manifest>
