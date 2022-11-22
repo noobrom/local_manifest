@@ -4,8 +4,8 @@
       <remote name="projects-nexus"
           fetch="https://github.com/projects-nexus" />   
       
-      <remote name="ahmedhridoy371"
-          fetch="https://github.com/ahmedhridoy371" />       
+      <remote name="noobrom"
+          fetch="https://github.com/noobrom" />       
      
       <remote name="ArrowOS"
           fetch="https://github.com/ArrowOS" />
